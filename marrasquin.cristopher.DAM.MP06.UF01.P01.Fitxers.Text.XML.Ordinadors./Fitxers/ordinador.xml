@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="21.0.2" class="java.beans.XMLDecoder">
+ <object class="Ordinador">
+  <void property="discDur">
+   <int>256</int>
+  </void>
+  <void property="marca">
+   <string>Lenovo</string>
+  </void>
+  <void property="memoria">
+   <int>16</int>
+  </void>
+  <void property="model">
+   <string>Thinkpad</string>
+  </void>
+  <void property="numSerie">
+   <int>1</int>
+  </void>
+  <void property="processador">
+   <string>Intel Core i5-6200U</string>
+  </void>
+ </object>
+</java>
